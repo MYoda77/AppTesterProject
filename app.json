@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "App_Tester_Project",
-    "slug": "App_Tester_Project",
+    "name": "AppTesterProject",
+    "slug": "apptesterproject",
     "version": "1.0.0",
     "scheme": "apptester",
     "orientation": "portrait",
@@ -22,14 +22,9 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "plugins": ["expo-router", "expo-secure-store"],
+    "plugins": ["expo-router", "expo-status-bar", "expo-secure-store"],
     "experiments": {
       "typedRoutes": true
-    },
-    "plugins": [
-      "expo-router",
-      "expo-status-bar",
-      "expo-secure-store"
-    ]
+    }
   }
 }

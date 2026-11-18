@@ -1,5 +1,5 @@
 {
-  "name": "app_tester_project",
+  "name": "apptesterproject",
   "version": "1.0.0",
   "main": "expo-router/entry",
   "dependencies": {
